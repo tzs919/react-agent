@@ -406,7 +406,7 @@ wheels = [
 
 [[package]]
 name = "fireworks-ai"
-version = "0.17.20"
+version = "0.17.21"
 source = { registry = "https://mirrors.aliyun.com/pypi/simple/" }
 dependencies = [
     { name = "asyncstdlib-fw" },
@@ -425,9 +425,9 @@ dependencies = [
     { name = "toml" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://mirrors.aliyun.com/pypi/packages/81/bc/cfe95e1e1a1f9bdefc929f1b7da20d18f1089b33018cda89ed1af82ea02a/fireworks_ai-0.17.20.tar.gz", hash = "sha256:183a470531d78b4ca591f79a42b4f03b02928fadefcbc6900053693b5fd45c14" }
+sdist = { url = "https://mirrors.aliyun.com/pypi/packages/76/98/00d696e9d2fd65aa1c9058829dd568462d0dd6ab673e742a298814551105/fireworks_ai-0.17.21.tar.gz", hash = "sha256:acf56bf07fdd02c3606d266a9a3bd749f35da5e67405b66fa959baf526ebbeb6" }
 wheels = [
-    { url = "https://mirrors.aliyun.com/pypi/packages/83/b5/74806271ddb130dd0ebfd1be9adc97f148e95e12bc7ebf6e9a426e6dd9e9/fireworks_ai-0.17.20-py3-none-any.whl", hash = "sha256:f66fbdbf257b65ccf856153c25cd5c660363d06d6171ac2bfd46ce6efa584c96" },
+    { url = "https://mirrors.aliyun.com/pypi/packages/af/7e/a465acef32c08f136a5a3ef335cbb45cb7e81710d22b005d8b287ed27089/fireworks_ai-0.17.21-py3-none-any.whl", hash = "sha256:e459d1eee87795664af4a3005202d09f6b28d79699dd95f471c12bb3e2a7c8c2" },
 ]
 
 [[package]]
